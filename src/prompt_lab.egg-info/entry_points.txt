@@ -1,0 +1,2 @@
+[console_scripts]
+prompt-lab = prompt_lab.cli:main
